@@ -11,6 +11,8 @@ Size: 9,994 rows, 21 columns
 ## Tools Used
 - Python: pandas, matplotlib, seaborn
 - Power BI: Dashboard (coming soon)
+- - Power BI: Interactive dashboard with KPI cards, 
+  bar charts, pie chart, and yearly sales trend
 
 ## Key Findings
 - West region leads in sales ($725K) and profit ($108K)
